@@ -28,18 +28,18 @@ This `Flipped School` study is for people like this
 |No.|Date|Topic|Textbook|Video(youtube)|
 |:--:|--|:--:|--|:--:|
 |00|January 07, 2022|Introduction to Machine and Deep Learning/Data Handling|chapter 1, 2|✖|
-|01|January 10, 2022|Image Classification|✖|[Lec 2. Image Classification](https://youtu.be/OoUX-nOEjG0)|
+|01|January 10, 2022|Image Classification|✖|[Lec 2.](https://youtu.be/OoUX-nOEjG0)|
 |02|January 12, 20222|Regression Algorithm and Regularization|chapter 3|✖|
-|03|January 17, 2022|Loss Functions and Optimization|✖|[Lec 3. Loss Functions and Optimization](https://youtu.be/h7iBpEHGVNc)|
+|03|January 17, 2022|Loss Functions and Optimization|✖|[Lec 3.](https://youtu.be/h7iBpEHGVNc)|
 |04|January 19, 2022|Classification Algorithm|chapter 4|✖|
-|05|January 24, 2022|Introduction to Neural Networks|✖|[Lec 4. Introduction to Neural Networks](https://youtu.be/d14TUNcbn1k)|
+|05|January 24, 2022|Introduction to Neural Networks|✖|[Lec 4.](https://youtu.be/d14TUNcbn1k)|
 |06|January 26, 2022|Deep Learning|chapter 7|✖|
 |07|February 7, 2022|Artificial Neural Networks for Image|chapter 8|
-|08|February 9, 2022|Convolutional Neural Networks|✖|[Lec 5. Convolutional Neural Networks](https://youtu.be/bNb2fEVKeEo)|
-|09|February 14, 2022|Training Neural Networks I|✖|[Lec 6. Training Neural Networks I](https://youtu.be/wEoyxE0GP2M)|
-|10|February 16, 2022|Training Neural Networks II|✖|[Lec 7. Training Neural Networks II](https://youtu.be/_JB0AO7QxSA)|
+|08|February 9, 2022|Convolutional Neural Networks|✖|[Lec 5.](https://youtu.be/bNb2fEVKeEo)|
+|09|February 14, 2022|Training Neural Networks I|✖|[Lec 6.](https://youtu.be/wEoyxE0GP2M)|
+|10|February 16, 2022|Training Neural Networks II|✖|[Lec 7.](https://youtu.be/_JB0AO7QxSA)|
 |11|February 21, 2022|Artificial Neural Networks for Text|chapter 9|✖|
-|12|February 23, 2022|Recurrent Neural Networks|✖|[Lec 10. Recurrent Neural Networks](https://youtu.be/6niqTuYFZLQ)|
+|12|February 23, 2022|Recurrent Neural Networks|✖|[Lec 10.](https://youtu.be/6niqTuYFZLQ)|
 
 
 </br>
