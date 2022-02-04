@@ -34,7 +34,7 @@ This `Flipped School` study is for people like this
 |04|January 19, 2022|Classification Algorithm|chapter 4|✖|
 |05|January 24, 2022|Introduction to Neural Networks|✖|[Lec 4.](https://youtu.be/d14TUNcbn1k)|
 |06|January 26, 2022|Deep Learning|chapter 7|✖|
-|07|February 7, 2022|Artificial Neural Networks for Image|chapter 8|
+|07|February 7, 2022|Artificial Neural Networks for Image|chapter 8|✖|
 |08|February 9, 2022|Convolutional Neural Networks|✖|[Lec 5.](https://youtu.be/bNb2fEVKeEo)|
 |09|February 14, 2022|Training Neural Networks I|✖|[Lec 6.](https://youtu.be/wEoyxE0GP2M)|
 |10|February 16, 2022|Training Neural Networks II|✖|[Lec 7.](https://youtu.be/_JB0AO7QxSA)|
