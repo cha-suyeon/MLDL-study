@@ -4,11 +4,8 @@ Facilitator: 차수연
 > - Date: 2022.01.10-2022.02.23
 > - Members: 김현지, 박흥선, 신은정, 안정희, 이다정, 이예영, 장병용, 조송희, 함태식
 > - Material: 
->   - Textbook: `혼자 공부하는 머신러닝+딥러닝`
->   - Video(youtube): `cs231n`
-> - Link to My Blog
->   - TextBook [Posting Series](https://velog.io/@cha-suyeon/series/%ED%98%BC%EC%9E%90%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D)
->   - Cs231n [Posting Series](https://velog.io/@cha-suyeon/series/CS231n)
+>   - Textbook: `혼자 공부하는 머신러닝+딥러닝` [Posting Series](https://velog.io/@cha-suyeon/series/%ED%98%BC%EC%9E%90%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D)
+>   - Video(youtube): `cs231n` [Posting Series](https://velog.io/@cha-suyeon/series/CS231n)
 
 </br>
 
@@ -41,7 +38,6 @@ This `Flipped School` study is for people like this
 |10|February 16, 2022|Training Neural Networks II|✖|[Lec 7.](https://youtu.be/_JB0AO7QxSA)|
 |11|February 21, 2022|Artificial Neural Networks for Text|chapter 9|✖|
 |12|February 23, 2022|Recurrent Neural Networks|✖|[Lec 10.](https://youtu.be/6niqTuYFZLQ)|
-
 
 </br>
 
