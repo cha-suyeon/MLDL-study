@@ -90,7 +90,10 @@ $s_j = f(x_i, W)_j$로 i번째 예에 대한 멀티클래스 SVM 손실은 다�
 강의에서는 `safety margin`이라 소개하고 `1`로 고정되어 있습니다.
 
 > \[$L_i=∑_{j≠y_i}max(0,s_j−s_{y_i}+1)$\]
->
+
+<img src="https://latex.codecogs.com/svg.image?L_i=∑_{j≠y_i}" title="L_i=∑_{j≠y_i}" />
+<img src="https://latex.codecogs.com/svg.image?max(0,s_j−s_{y_i}&plus;1)" title="max(0,s_j−s_{y_i}+1)" />
+
 <img src="https://latex.codecogs.com/svg.image?$L_i=∑_{j≠y_i}max(0,s_j−s_{y_i}&plus;1)$" title="$L_i=∑_{j≠y_i}max(0,s_j−s_{y_i}+1)$" />
 
 식은 이렇습니다.
