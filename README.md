@@ -49,7 +49,7 @@ This `Flipped School` study is for people like this
 
 ### Textbook
 - Title: `혼자 공부하는 머신러닝+딥러닝`
-- 😸 Github: https://github.com/rickiepark/hg-mldl
+- 📙 Github: [Colab(Jupyter Notebook)](https://github.com/rickiepark/hg-mldl)
 - 💻 Youtube Link: [hg-mldl](http://bit.ly/hg-mldl-youtube)
 
 ### Video(youtube)
