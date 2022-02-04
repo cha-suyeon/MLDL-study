@@ -5,12 +5,12 @@ Facilitator: 차수연
 > - Date: 2022.01.10-2022.02.23
 > - Members: 김현지, 박흥선, 신은정, 안정희, 이다정, 이예영, 장병용, 조송희, 함태식
 > - Material: 
->   - Textbook: `혼자 공부하는 머신러닝`
+>   - Textbook: `혼자 공부하는 머신러닝+딥러닝`
 >   - Video(youtube): `cs231n`
 
 </br>
 
-### Introduction
+## Introduction
 ---
 This `Flipped School` study is for people like this
 
@@ -22,7 +22,7 @@ This `Flipped School` study is for people like this
 
 </br>
 
-### Curriculum
+## Curriculum
 ---
 
 |No.|Date|Topic|Textbook|Video(youtube)|
@@ -44,5 +44,16 @@ This `Flipped School` study is for people like this
 
 </br>
 
-### Material Link
+## Material Link
 ---
+
+### Textbook
+- Title: `혼자 공부하는 머신러닝+딥러닝`
+- 😸 Github: https://github.com/rickiepark/hg-mldl
+- 💻 Youtube Link: [hg-mldl](http://bit.ly/hg-mldl-youtube)
+
+### Video(youtube)
+- Title: `cs231n`(Convolutional Neural Networks for Visual Recognition)
+- 📒 Course Notes: [CS231n(Spring 2017)](http://cs231n.stanford.edu/)
+- 💻 Youtube Link: [Lecture Collection](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+- 📄 Slide: [Download Here](http://cs231n.stanford.edu/2017/syllabus.html)
