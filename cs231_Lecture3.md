@@ -656,7 +656,13 @@ loss function은 선형의 모양으로 가장 좋은 parameter 값인 파란색
 
 - 반복적으로 루프(loop)를 돌려서 gradient를 계산하고 parameter를 업데이트하는 Gradient Descent 알고리즘을 소개했습니다!
 
-
+---
+title:  'log 와 ln'
+categories:
+  - Math
+tags: [Math]
+use_math: true
+---
 
 
 
