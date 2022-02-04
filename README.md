@@ -1,5 +1,4 @@
 # AIFFEL DeepML Flipped School
----
 Facilitator: 차수연
 
 > - Date: 2022.01.10-2022.02.23
@@ -9,9 +8,9 @@ Facilitator: 차수연
 >   - Video(youtube): `cs231n`
 
 </br>
-
-## Introduction
 ---
+## Introduction
+
 This `Flipped School` study is for people like this
 
 ```
@@ -22,8 +21,8 @@ This `Flipped School` study is for people like this
 
 </br>
 
-## Curriculum
 ---
+## Curriculum
 
 |No.|Date|Topic|Textbook|Video(youtube)|
 |:--:|--|:--:|--|:--:|
@@ -44,8 +43,8 @@ This `Flipped School` study is for people like this
 
 </br>
 
-## Material Link
 ---
+## Material Link
 
 ### Textbook
 - Title: `혼자 공부하는 머신러닝+딥러닝`
