@@ -8,6 +8,7 @@ Facilitator: 차수연
 >   - Video(youtube): `cs231n`
 
 </br>
+
 ---
 ## Introduction
 
