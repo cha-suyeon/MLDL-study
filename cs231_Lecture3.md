@@ -38,7 +38,7 @@
 
 Lecture 2에서는 image pixel 값에서 class score에 이르는 function을 정의했으며, 이는 $W$에 의해 parameterized 되었습니다.
 
-이는 데이터 $$(x_i,y_i)$$에 대한 제어는 없지만 가중치를 제어할 수 있음을 의미하며,
+이는 데이터 <img src="https://latex.codecogs.com/svg.image?(x_i,y_i)" title="(x_i,y_i)" />에 대한 제어는 없지만 가중치를 제어할 수 있음을 의미하며,
 
 예측된 class score가 ground truth과 일치하도록 만들어줍니다.
 
