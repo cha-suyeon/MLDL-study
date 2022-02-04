@@ -90,8 +90,8 @@ $s_j = f(x_i, W)_j$로 i번째 예에 대한 멀티클래스 SVM 손실은 다�
 강의에서는 `safety margin`이라 소개하고 `1`로 고정되어 있습니다.
 
 > \[$L_i=∑_{j≠y_i}max(0,s_j−s_{y_i}+1)$\]
-
-$$\[$L_i=∑_{j≠y_i}max(0,s_j−s_{y_i}+1)$\]$$
+>
+<img src="https://latex.codecogs.com/svg.image?$L_i=∑_{j≠y_i}max(0,s_j−s_{y_i}&plus;1)$" title="$L_i=∑_{j≠y_i}max(0,s_j−s_{y_i}+1)$" />
 
 식은 이렇습니다.
 
@@ -111,7 +111,7 @@ hinge는 참고로 '경첩'을 의미합니다.😓
 
 ![](https://images.velog.io/images/cha-suyeon/post/8961e0bb-6f06-442f-8a65-9a236967e3c8/image.png)
 
-$s_j$와 $s_{y_i}$에 대해 이해를 하셨다면, hinge loss 그래프를 이해하는데 어렵지 않을 거라 생각합니다.
+$s_j$와 <img src="https://latex.codecogs.com/svg.image?s_{y_i}" title="s_{y_i}" />에 대해 이해를 하셨다면, hinge loss 그래프를 이해하는데 어렵지 않을 거라 생각합니다.
 
 정확하게 예측했을 수록 $s_{y_i}$의 값이 클테니까 $s_j-s_{y_i}$의 식에서 음숫값이 나올 가능성이 더 큽니다. 그러면 `max(0, vlaue)`에 따라 loss는 0이 되겠죠.
 
