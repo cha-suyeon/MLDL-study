@@ -3,9 +3,6 @@ Facilitator: 차수연
 
 > - Date: 2022.01.10-2022.02.23
 > - Members: 김현지, 박흥선, 신은정, 안정희, 이다정, 이예영, 장병용, 조송희, 함태식
-> - Material: 
->   - Textbook: `혼자 공부하는 머신러닝+딥러닝`
->   - Video(youtube): `cs231n`
 
 </br>
 
@@ -49,6 +46,10 @@ This `Flipped School` study is for people like this
 </br>
 
 ## Material Link
+
+> - Material: 
+>   - Textbook: `혼자 공부하는 머신러닝+딥러닝`
+>   - Video(youtube): `cs231n`
 
 ### Textbook
 - Title: `혼자 공부하는 머신러닝+딥러닝`
