@@ -20,8 +20,8 @@ This `Flipped School` study is for people like this
 
 ## Uploaded
 
-> - I uploaded the code about the textbook and my blog link. [Posting Series](https://velog.io/@cha-suyeon/series/%ED%98%BC%EC%9E%90%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D)
-> - I uploaded my blog link that I summarized about cs231. [Posting Series](https://velog.io/@cha-suyeon/series/CS231n)
+> - Textbook [Posting Series](https://velog.io/@cha-suyeon/series/%ED%98%BC%EC%9E%90%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D)
+> - cs231 [Posting Series](https://velog.io/@cha-suyeon/series/CS231n)
 
 </br>
 
