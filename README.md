@@ -41,7 +41,7 @@ This `Flipped School` study is for people like this
 |09|February 14, 2022|Training Neural Networks I|✖|[Lec 6.](https://velog.io/@cha-suyeon/cs231n-6%EA%B0%95-%EC%A0%95%EB%A6%AC-Training-Neural-Networks-I)|
 |10|February 16, 2022|Training Neural Networks II|✖|[Lec 7.](https://velog.io/@cha-suyeon/cs231n-7%EA%B0%95-%EC%A0%95%EB%A6%AC-Training-Neural-Networks-II)|
 |11|February 21, 2022|Artificial Neural Networks for Text|chapter 9|✖|
-|12|February 23, 2022|Recurrent Neural Networks|✖|Lec 10.|
+|12|February 23, 2022|Recurrent Neural Networks|✖| [Lec 10.](https://velog.io/@cha-suyeon/CS231n-Lecture-10-%EA%B0%95%EC%9D%98-%EC%A0%95%EB%A6%AC)|
 
 </br>
 
