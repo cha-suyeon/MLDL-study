@@ -53,4 +53,4 @@ This `Flipped School` study is for people like this
 >     - 💻 Youtube Link: [hg-mldl](http://bit.ly/hg-mldl-youtube)
 >   - Video(youtube): `cs231n`
 >     - Title: `cs231n`(Convolutional Neural Networks for Visual Recognition)
->    - 📒 Course Notes: [CS231n(Spring 2017)](http://cs231n.stanford.edu/)    
+>     - 📒 Course Notes: [CS231n(Spring 2017)](http://cs231n.stanford.edu/)    
