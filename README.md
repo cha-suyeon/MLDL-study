@@ -45,19 +45,12 @@ This `Flipped School` study is for people like this
 
 </br>
 
-## Material Link
+## Reference
 
 > - Material: 
 >   - Textbook: `혼자 공부하는 머신러닝+딥러닝`
+>     - 📙 Github: [Colab(Jupyter Notebook)](https://github.com/rickiepark/hg-mldl)
+>     - 💻 Youtube Link: [hg-mldl](http://bit.ly/hg-mldl-youtube)
 >   - Video(youtube): `cs231n`
-
-### Textbook
-- Title: `혼자 공부하는 머신러닝+딥러닝`
-- 📙 Github: [Colab(Jupyter Notebook)](https://github.com/rickiepark/hg-mldl)
-- 💻 Youtube Link: [hg-mldl](http://bit.ly/hg-mldl-youtube)
-
-### Video(youtube)
-- Title: `cs231n`(Convolutional Neural Networks for Visual Recognition)
-- 📒 Course Notes: [CS231n(Spring 2017)](http://cs231n.stanford.edu/)
-- 💻 Youtube Link: [Lecture Collection](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
-- 📄 Slide: [Download Here](http://cs231n.stanford.edu/2017/syllabus.html)
+>     - Title: `cs231n`(Convolutional Neural Networks for Visual Recognition)
+>    - 📒 Course Notes: [CS231n(Spring 2017)](http://cs231n.stanford.edu/)    
