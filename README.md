@@ -51,6 +51,40 @@ This `Flipped School` study is for people like this
 
 </br>
 
+## Qusetion & Answer
+
+1. 1x1 Convolution layer를 사용하는 이유는 무엇일까요?
+2. Non-Linearity(비선형)의 의미와 필요한 이유 / tanh가 sigmoid보다 더 좋은 성능을 갖는 이유 / ReLU의 문제점
+3. Batch Normalization가 왜 필요할까요? /Batch Normalization의 효과는 무엇인가요?
+4. 왜 layer가 Conv layer와 Pooling Layer가 반복되며 나올까요?/마지막에는 Fully Connected Layer를 사용하는 이유는 뭘까요?
+5. CNN과 RNN의 주요 차이점은 무엇일까요?
+6. 수렴(`convergence`)을 빨리 할 수 있다는 것은 무슨 의미인가요?
+7. Downsampling을 하는 이유는 무엇인가요? size가 작아지는 것을 막기 위해 padding을 하는데, 왜 pooling을 통해 또 줄이는 걸까요?
+8. Dropout의  효과 / BN(Batch Normalization)이 나오고 나서 Dropout은 실제로 잘 안 쓰이나요? / Dropout은 주로 어디에 위치하는 것이 권장될까요?
+9. Dropout을 사용하게 되면 전체 학 습시간이 늘어나는 이유로 각 스텝마다 업데이트되는 파라미터의 수가 줄어들기 때문이라고 하였는데요. 파라미터의 수가 줄어들면 학습시간이 줄어드는 게 아닌지요?
+10. searching space에 3~4개 이상의 차원이 포함된 경우 그리드 검색을 사용하면 안 됩니다. high spaces에서는 아주 나쁜 성능을 보여주는데요. 그 이유는 무엇일까요?
+11. Hidden layer를 활성화 시키는 함수로 sigmoid를 사용하지 않고 ReLU라는 활성화 함수를 사용하는데 그 이유가 뭘까요?
+12. `learning rate` α가 너무 크거나 α가 너무 작으면 어떤 일이 발생하나요?
+13. LSTM이 RNN의 어떤 문제를 해결하였습니까? 
+14. LSTM에는 cell state와 hidden state가 모두 있습니다. cell로 long-term dependency를 다룰 수 있다고 하는데요. cell state의 역할은 무엇인가요?
+15. LSTM에 도입된 세 가지 gate의 역할은 무엇인가요?
+16. feedback RNN과 LSTM/GRU의 차이점
+17. many-to-one RNN architecture를 적용하기 더 좋은 task 2개는?
+18. 미니 배치 크기를 작게 할 때의 장단점은 무엇인가요?
+19. CNN과 단순 feed-forward neural network를 비교하면 어느 쪽이 parameter 개수가 더 많을까요?
+20. Pooling은 overlap 하지 않는 것이 일반적이라고 합니다. Pooling을 적용할 때 overlap하여 더 촘촘히 feature를 뽑으면 좋을 것 같은데, 그렇게 하지 않는 이유는 무엇일까요?
+21. RNN에서 activation function으로 tanh를 사용하는 이유는?
+22. `robust`하다는 것은 무슨 의미인가요?
+23. Safety margin의 개념. 본 강의에서는 safety margin을 1로 사용하였지만 사실 이 값은 별 상관이 없다 라고 하였는데 그 이유가 무엇일까요?
+24. SGD, RMSprop, Adam에 대해 차이점을 두고 설명할 수 있나요?
+25. SGD에서 Stochastic의 의미는 무엇일까요?
+26. 해당 슬라이드에서 Car score가 cat score보다 높아서 loss가 0이 됩니다. 그것은 무엇을 의미하는 것인가요? / SVM loss function을 아래와 같이 제곱항으로 바꾸면 어떻게 될까요?
+27. Transfer Learning & Fine Tuning의 차이가 무엇일까요?
+28. 가중치 초기화 필요성 / 0으로 초기화 할 경우 / 무작위로 초기화된 가중치가 아주 크거나 작을 때
+29. padding에서 zero-padding을 많이 사용하는 이유는 무엇일까요?
+
+</br>
+
 ## Reference
 
 > - Material: 
