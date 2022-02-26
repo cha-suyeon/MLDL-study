@@ -24,26 +24,6 @@ This `Flipped School` study is for people like this
 
 </br>
 
-## Curriculum
-
-|No.|Date|Topic|Textbook|Lecture|
-|:--:|--|:--:|--|:--:|
-|00|January 07, 2022|Introduction to Machine and Deep Learning/Data Handling|chapter 1, 2|✖|
-|01|January 10, 2022|Image Classification|✖|[Lec 2.](https://velog.io/@cha-suyeon/CS231n-2%EA%B0%95-%EC%9A%94%EC%95%BD)|
-|02|January 12, 20222|Regression Algorithm and Regularization|[chapter 3 -1](https://velog.io/@cha-suyeon/%ED%98%BC%EA%B3%B5%EB%A8%B8-K-Nearest-Neighbors-R), [chapter 3 -2](https://velog.io/@cha-suyeon/%ED%98%BC%EA%B3%B5%EB%A8%B8-feature-engineering-%EB%8B%A4%EC%A4%91-%ED%9A%8C%EA%B7%80)|✖|
-|03|January 17, 2022|Loss Functions and Optimization|✖|[Lec 3.](https://velog.io/@cha-suyeon/cs231-Lecture-3-Loss-Functions-and-Optimization-%EC%9A%94%EC%95%BD)|
-|04|January 19, 2022|Classification Algorithm|[chapter 4 -1](https://velog.io/@cha-suyeon/%ED%98%BC%EA%B3%B5%EB%A8%B8-Logistic-Regression%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1-%ED%9A%8C%EA%B7%80), [chapter 4 -2](https://velog.io/@cha-suyeon/%ED%98%BC%EA%B3%B5%EB%A8%B8-%EB%B0%B0%EC%B9%98%EC%99%80-%EB%AF%B8%EB%8B%88-%EB%B0%B0%EC%B9%98-%ED%99%95%EB%A5%A0%EC%A0%81-%EA%B2%BD%EC%82%AC%ED%95%98%EA%B0%95%EB%B2%95)|✖|
-|05|January 24, 2022|Introduction to Neural Networks|✖|[Lec 4.](https://velog.io/@cha-suyeon/CS231n-4%EA%B0%95-%EC%A0%95%EB%A6%AC-Introduction-to-Neural-Networks)|
-|06|January 26, 2022|Deep Learning|[chapter 7](https://velog.io/@cha-suyeon/%ED%98%BC%EA%B3%B5%EB%A8%B8)|✖|
-|07|February 7, 2022|Artificial Neural Networks for Image|[chapter 8](https://velog.io/@cha-suyeon/%ED%98%BC%EA%B3%B5%EB%A8%B8-%ED%95%A9%EC%84%B1%EA%B3%B1-%EC%8B%A0%EA%B2%BD%EB%A7%9D-Convolution-Neural-Network)|✖|
-|08|February 9, 2022|Convolutional Neural Networks|✖|[Lec 5.](https://velog.io/@cha-suyeon/cs231n-5%EA%B0%95-%EC%A0%95%EB%A6%AC-Convolutional-Neural-Networks)|
-|09|February 14, 2022|Training Neural Networks I|✖|[Lec 6.](https://velog.io/@cha-suyeon/cs231n-6%EA%B0%95-%EC%A0%95%EB%A6%AC-Training-Neural-Networks-I)|
-|10|February 16, 2022|Training Neural Networks II|✖|[Lec 7.](https://velog.io/@cha-suyeon/cs231n-7%EA%B0%95-%EC%A0%95%EB%A6%AC-Training-Neural-Networks-II)|
-|11|February 21, 2022|Artificial Neural Networks for Text|[chapter 9](https://velog.io/@cha-suyeon/%ED%98%BC%EA%B3%B5%EB%A8%B8-%EC%88%9C%EC%B0%A8-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%99%80-%EC%88%9C%ED%99%98-%EC%8B%A0%EA%B2%BD%EB%A7%9D)|✖|
-|12|February 23, 2022|Recurrent Neural Networks|✖| [Lec 10.](https://velog.io/@cha-suyeon/cs231n-10%EA%B0%95-%EC%A0%95%EB%A6%AC-Recurrent-Neural-Networks)|
-
-</br>
-
 ## Qusetion & Answer
 
 1. 1x1 Convolution layer를 사용하는 이유는 무엇일까요? [Answer](https://github.com/cha-suyeon/MLDL-study/blob/main/answers/1x1_Convolution_layer.md)
@@ -75,6 +55,26 @@ This `Flipped School` study is for people like this
 27. Transfer Learning & Fine Tuning의 차이가 무엇일까요?
 28. 가중치 초기화 필요성 / 0으로 초기화 할 경우 / 무작위로 초기화된 가중치가 아주 크거나 작을 때
 29. padding에서 zero-padding을 많이 사용하는 이유는 무엇일까요?
+
+</br>
+
+## Curriculum
+
+|No.|Date|Topic|Textbook|Lecture|
+|:--:|--|:--:|--|:--:|
+|00|January 07, 2022|Introduction to Machine and Deep Learning/Data Handling|chapter 1, 2|✖|
+|01|January 10, 2022|Image Classification|✖|[Lec 2.](https://velog.io/@cha-suyeon/CS231n-2%EA%B0%95-%EC%9A%94%EC%95%BD)|
+|02|January 12, 20222|Regression Algorithm and Regularization|[chapter 3 -1](https://velog.io/@cha-suyeon/%ED%98%BC%EA%B3%B5%EB%A8%B8-K-Nearest-Neighbors-R), [chapter 3 -2](https://velog.io/@cha-suyeon/%ED%98%BC%EA%B3%B5%EB%A8%B8-feature-engineering-%EB%8B%A4%EC%A4%91-%ED%9A%8C%EA%B7%80)|✖|
+|03|January 17, 2022|Loss Functions and Optimization|✖|[Lec 3.](https://velog.io/@cha-suyeon/cs231-Lecture-3-Loss-Functions-and-Optimization-%EC%9A%94%EC%95%BD)|
+|04|January 19, 2022|Classification Algorithm|[chapter 4 -1](https://velog.io/@cha-suyeon/%ED%98%BC%EA%B3%B5%EB%A8%B8-Logistic-Regression%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1-%ED%9A%8C%EA%B7%80), [chapter 4 -2](https://velog.io/@cha-suyeon/%ED%98%BC%EA%B3%B5%EB%A8%B8-%EB%B0%B0%EC%B9%98%EC%99%80-%EB%AF%B8%EB%8B%88-%EB%B0%B0%EC%B9%98-%ED%99%95%EB%A5%A0%EC%A0%81-%EA%B2%BD%EC%82%AC%ED%95%98%EA%B0%95%EB%B2%95)|✖|
+|05|January 24, 2022|Introduction to Neural Networks|✖|[Lec 4.](https://velog.io/@cha-suyeon/CS231n-4%EA%B0%95-%EC%A0%95%EB%A6%AC-Introduction-to-Neural-Networks)|
+|06|January 26, 2022|Deep Learning|[chapter 7](https://velog.io/@cha-suyeon/%ED%98%BC%EA%B3%B5%EB%A8%B8)|✖|
+|07|February 7, 2022|Artificial Neural Networks for Image|[chapter 8](https://velog.io/@cha-suyeon/%ED%98%BC%EA%B3%B5%EB%A8%B8-%ED%95%A9%EC%84%B1%EA%B3%B1-%EC%8B%A0%EA%B2%BD%EB%A7%9D-Convolution-Neural-Network)|✖|
+|08|February 9, 2022|Convolutional Neural Networks|✖|[Lec 5.](https://velog.io/@cha-suyeon/cs231n-5%EA%B0%95-%EC%A0%95%EB%A6%AC-Convolutional-Neural-Networks)|
+|09|February 14, 2022|Training Neural Networks I|✖|[Lec 6.](https://velog.io/@cha-suyeon/cs231n-6%EA%B0%95-%EC%A0%95%EB%A6%AC-Training-Neural-Networks-I)|
+|10|February 16, 2022|Training Neural Networks II|✖|[Lec 7.](https://velog.io/@cha-suyeon/cs231n-7%EA%B0%95-%EC%A0%95%EB%A6%AC-Training-Neural-Networks-II)|
+|11|February 21, 2022|Artificial Neural Networks for Text|[chapter 9](https://velog.io/@cha-suyeon/%ED%98%BC%EA%B3%B5%EB%A8%B8-%EC%88%9C%EC%B0%A8-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%99%80-%EC%88%9C%ED%99%98-%EC%8B%A0%EA%B2%BD%EB%A7%9D)|✖|
+|12|February 23, 2022|Recurrent Neural Networks|✖| [Lec 10.](https://velog.io/@cha-suyeon/cs231n-10%EA%B0%95-%EC%A0%95%EB%A6%AC-Recurrent-Neural-Networks)|
 
 </br>
 
