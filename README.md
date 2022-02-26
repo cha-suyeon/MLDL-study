@@ -15,13 +15,6 @@ This `Flipped School` study is for people like this
 2) Intermediate level knowledge of Deep Learning but want to learn in-depth
 3) Seniors who want to look at the trends of Deep Learning
 ```
-
-</br>
-
-## Questions
-
-
-
 </br>
 
 ## Uploaded
