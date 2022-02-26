@@ -53,7 +53,7 @@ This `Flipped School` study is for people like this
 
 ## Qusetion & Answer
 
-1. 1x1 Convolution layer를 사용하는 이유는 무엇일까요?
+1. 1x1 Convolution layer를 사용하는 이유는 무엇일까요? [Answer](https://github.com/cha-suyeon/MLDL-study/blob/main/answers/1x1_Convolution_layer.md)
 2. Non-Linearity(비선형)의 의미와 필요한 이유 / tanh가 sigmoid보다 더 좋은 성능을 갖는 이유 / ReLU의 문제점
 3. Batch Normalization가 왜 필요할까요? /Batch Normalization의 효과는 무엇인가요?
 4. 왜 layer가 Conv layer와 Pooling Layer가 반복되며 나올까요?/마지막에는 Fully Connected Layer를 사용하는 이유는 뭘까요?
