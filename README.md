@@ -15,6 +15,12 @@ This `Flipped School` study is for people like this
 2) Intermediate level knowledge of Deep Learning but want to learn in-depth
 3) Seniors who want to look at the trends of Deep Learning
 ```
+
+Effective facilitation of a discussion involves the employment of different perspectives and different skills to create an inclusive environment.
+
+I tried to consider the features of effective discussions, amd conditions that promote small group interaction and engagement.
+
+
 </br>
 
 ## Uploaded
@@ -24,7 +30,9 @@ This `Flipped School` study is for people like this
 
 </br>
 
-## Qusetion & Answer
+## Questions & Answers
+
+> I provided questions to the discussion and summarize the results in a visible way using Notion tools.
 
 1. 1x1 Convolution layer를 사용하는 이유는 무엇일까요? [Answer](https://github.com/cha-suyeon/MLDL-study/blob/main/answers/1x1_Convolution_layer.md)
 2. Non-Linearity(비선형)의 의미와 필요한 이유 / tanh가 sigmoid보다 더 좋은 성능을 갖는 이유 / ReLU의 문제점
