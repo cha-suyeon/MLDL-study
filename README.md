@@ -1,8 +1,8 @@
 # AIFFEL DeepML Flipped School
 Facilitator: 차수연
 
-> - Date: 2022.01.10-2022.02.23
-> - Members: 김현지, 박흥선, 신은정, 안정희, 이다정, 이예영, 장병용, 조송희, 함태식
+- Date: 2022.01.10-2022.02.23
+- Members: 김현지, 박흥선, 신은정, 안정희, 이다정, 이예영, 장병용, 조송희, 함태식
 
 </br>
 
@@ -16,8 +16,7 @@ This `Flipped School` study is for people like this
 3) Seniors who want to look at the trends of Deep Learning
 ```
 
-Effective facilitation of a discussion involves the employment of different perspectives and different skills to create an inclusive environment.
-
+> Effective facilitation of a discussion involves the employment of different perspectives and different skills to create an inclusive environment.
 I tried to consider the features of effective discussions, amd conditions that promote small group interaction and engagement.
 
 
