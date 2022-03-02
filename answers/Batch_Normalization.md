@@ -16,7 +16,7 @@
 
 <br/>
 
-![img_2.png](img_2.png)
+![img_3.png](img_3.png)
 
 - A. input을 정규화하면 network가 첫 번째 layer에서 parameter를 더 효과적으로 학습합니다.
 
