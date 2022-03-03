@@ -1,8 +1,6 @@
 ## cs231 lecture 5
 ### about CNN Architecture
 
-![img_4.png](img_4.png)
-
 - Q1. 왜 layer가 Conv layer와 Pooling Layer가 반복되며 나올까요?
 - A1. CNN 마지막 부분에는 이미지 분류를 위한 Fully Connected layer가 추가됩니다. 이미지의 특징을 추출하는 부분과 이미지를 분류하는 부분 사이에 이미지 형태의 데이터를 배열 형태로 만드는 Flatten layer가 위치 합니다.
 
