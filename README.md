@@ -1,6 +1,5 @@
 # AIFFEL DeepML Flipped School
 Facilitator: 차수연
-
 - Date: 2022.01.10-2022.02.23
 - Members: 김현지, 박흥선, 신은정, 안정희, 이다정, 이예영, 장병용, 조송희, 함태식
 
@@ -26,6 +25,8 @@ I tried to consider the features of effective discussions, amd conditions that p
 
 > - Textbook [Posting Series](https://velog.io/@cha-suyeon/series/%ED%98%BC%EC%9E%90%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D)
 > - cs231 [Posting Series](https://velog.io/@cha-suyeon/series/CS231n)
+> - [Review](https://velog.io/@cha-suyeon/%ED%8D%BC%EC%8B%A4facilitator%EB%A1%9C%EC%84%9C%EC%9D%98-DeepML-%ED%92%80%EC%9E%8E%EC%8A%A4%EC%BF%A8-%ED%9B%84%EA%B8%B0)
+
 
 </br>
 
@@ -36,7 +37,7 @@ I tried to consider the features of effective discussions, amd conditions that p
 1. 1x1 Convolution layer를 사용하는 이유는 무엇일까요? [Answer](https://github.com/cha-suyeon/MLDL-study/blob/main/answers/1x1_Convolution_layer.md)
 2. Non-Linearity(비선형)의 의미와 필요한 이유 / tanh가 sigmoid보다 더 좋은 성능을 갖는 이유 / ReLU의 문제점 [Answer](https://github.com/cha-suyeon/MLDL-study/blob/main/answers/Activation_Function.md)
 3. Batch Normalization가 왜 필요할까요? /Batch Normalization의 효과는 무엇인가요? [Answer](https://github.com/cha-suyeon/MLDL-study/blob/main/answers/Batch_Normalization.md)
-4. 왜 layer가 Conv layer와 Pooling Layer가 반복되며 나올까요?/마지막에는 Fully Connected Layer를 사용하는 이유는 뭘까요?
+4. 왜 layer가 Conv layer와 Pooling Layer가 반복되며 나올까요?/마지막에는 Fully Connected Layer를 사용하는 이유는 뭘까요? [Answer](https://github.com/cha-suyeon/MLDL-study/blob/main/answers/CNN_Architecture.md)
 5. CNN과 RNN의 주요 차이점은 무엇일까요?
 6. 수렴(`convergence`)을 빨리 할 수 있다는 것은 무슨 의미인가요?
 7. Downsampling을 하는 이유는 무엇인가요? size가 작아지는 것을 막기 위해 padding을 하는데, 왜 pooling을 통해 또 줄이는 걸까요?
