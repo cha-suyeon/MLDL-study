@@ -1,7 +1,5 @@
 # AIFFEL DeepML Flipped School
-Facilitator: 차수연 <br/>
-[Review](https://velog.io/@cha-suyeon/%ED%8D%BC%EC%8B%A4facilitator%EB%A1%9C%EC%84%9C%EC%9D%98-DeepML-%ED%92%80%EC%9E%8E%EC%8A%A4%EC%BF%A8-%ED%9B%84%EA%B8%B0)
-
+Facilitator: 차수연
 - Date: 2022.01.10-2022.02.23
 - Members: 김현지, 박흥선, 신은정, 안정희, 이다정, 이예영, 장병용, 조송희, 함태식
 
@@ -27,6 +25,8 @@ I tried to consider the features of effective discussions, amd conditions that p
 
 > - Textbook [Posting Series](https://velog.io/@cha-suyeon/series/%ED%98%BC%EC%9E%90%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D)
 > - cs231 [Posting Series](https://velog.io/@cha-suyeon/series/CS231n)
+> - [Review](https://velog.io/@cha-suyeon/%ED%8D%BC%EC%8B%A4facilitator%EB%A1%9C%EC%84%9C%EC%9D%98-DeepML-%ED%92%80%EC%9E%8E%EC%8A%A4%EC%BF%A8-%ED%9B%84%EA%B8%B0)
+
 
 </br>
 
