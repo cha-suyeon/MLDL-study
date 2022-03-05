@@ -1,5 +1,5 @@
 # AIFFEL DeepML Flipped School
-Facilitator: 차수연
+Facilitator: 차수연 <br/>
 [Review](https://velog.io/@cha-suyeon/%ED%8D%BC%EC%8B%A4facilitator%EB%A1%9C%EC%84%9C%EC%9D%98-DeepML-%ED%92%80%EC%9E%8E%EC%8A%A4%EC%BF%A8-%ED%9B%84%EA%B8%B0)
 
 - Date: 2022.01.10-2022.02.23
